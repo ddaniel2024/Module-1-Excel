@@ -1,6 +1,6 @@
 # Module1
 Module 1 assignment
 
-Crowdfunding spreadsheet
+*Crowdfunding spreadsheet
 
-Report (Word document)
+*Report (Word document)
